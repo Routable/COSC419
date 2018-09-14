@@ -3,6 +3,12 @@
 # Completes the installation instructions for COSC419_LAB1 as per https://github.com/MattFritter/COSC419_Lab1/blob/master/README.md,
 # although it happens in a somewhat unorthodox manner. 
 
+# Instructions: Copy the script folder into the project directory. Change directory into /script, and
+# execute it via sh script.sh. Please make sure that the other two files are present in the folder
+# prior to executing this script. I do stop twice to make sure the user acknowledges this, but
+# I don't do any proper error checking because I couldn't be bothered - by running this file, 
+# you have acknowledged these terms!
+
 # Save directory of script execution for later use. Primarily to move files. 
 start=$(pwd) 
 
