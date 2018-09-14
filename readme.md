@@ -1,3 +1,8 @@
+## Computer Science 419 - Full Stack Web Development
+Author: Steven Bucholtz 
+
+This will be my repo for all work related to COSC 419. All files relating to this course can be found in this directory.
+
 <p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>
 
 <p align="center">
