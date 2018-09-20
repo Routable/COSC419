@@ -24,3 +24,7 @@ Route::middleware('auth:api')->get('/user', function (Request $request) {
 * Room and ID are parameters you are passing to your controller
 *
 */
+
+Route::post('send', 'ChatController@send');
+
+Route::get('msgs/{room}/{id}', 'ChatController@getMessage');

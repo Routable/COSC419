@@ -27,3 +27,15 @@ use Illuminate\Support\Facades\DB;
 Route::get('/', function () {
     return view('main');
 });
+
+Route::get('about', function () {
+    return view('about');
+});
+
+Route::get('contact', function () {
+    return view('contact');
+});
+
+Route::post('/create', 'ChatController@create');
+
+Route::get('chat/{room}', 'ChatController@join');
