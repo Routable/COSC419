@@ -1,7 +1,6 @@
-## Computer Science 419 - Full Stack Web Development
-Author: Steven Bucholtz 
+## Computer Science 419 - Simple Chat
+A simple web chat application using the Laravel framework and asynchronous JS polling.
 
-This will be my repo for all work related to COSC 419. All files relating to this course can be found in this directory.
 
 <p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>
 
