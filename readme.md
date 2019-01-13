@@ -1,4 +1,5 @@
-## Computer Science 419 - Simple Chat
+## Simple Chat
+
 A simple web chat application using the Laravel framework and asynchronous JS polling.
 
 
